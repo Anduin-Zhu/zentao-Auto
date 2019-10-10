@@ -1,0 +1,40 @@
+1519898503112	geckodriver	INFO	geckodriver 0.18.0
+1519898503120	geckodriver	INFO	Listening on 127.0.0.1:16216
+1519898506161	geckodriver::marionette	INFO	Starting browser D:\software\Firefox\firefox.exe with args ["-marionette"]
+1519898506981	Marionette	INFO	Enabled via --marionette
+1519898508971	Marionette	INFO	Listening on port 16225
+1519898509365	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 8876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+1519898622129	geckodriver	INFO	geckodriver 0.18.0
+1519898622137	geckodriver	INFO	Listening on 127.0.0.1:16325
+1519898625217	geckodriver::marionette	INFO	Starting browser D:\software\Firefox\firefox.exe with args ["-marionette"]
+1519898625783	Marionette	INFO	Enabled via --marionette
+1519898627267	Marionette	INFO	Listening on port 16334
+1519898628336	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520218162199	geckodriver	INFO	geckodriver 0.18.0
+1520218162213	geckodriver	INFO	Listening on 127.0.0.1:35052
+1520218165282	geckodriver::marionette	INFO	Starting browser D:\software\Firefox\firefox.exe with args ["-marionette"]
+1520218165898	Marionette	INFO	Enabled via --marionette
+1520218167601	Marionette	INFO	Listening on port 35062
+1520218168407	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1520218693303	geckodriver	INFO	geckodriver 0.18.0
+1520218693312	geckodriver	INFO	Listening on 127.0.0.1:35633
+1520218696399	geckodriver::marionette	INFO	Starting browser D:\software\Firefox\firefox.exe with args ["-marionette"]
+1520218696984	Marionette	INFO	Enabled via --marionette
+1520218698592	Marionette	INFO	Listening on port 35644

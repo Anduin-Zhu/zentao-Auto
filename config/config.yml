@@ -1,0 +1,18 @@
+URL: 'http://127.0.0.1/zentao/user-login-L3plbnRhby8=.html'
+log:
+    file_name: test.log
+    backup: 5
+    console_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+
+Email:
+      server: 'smtp.qq.com'
+      title: '禅道测试报告'
+      message: '这是今天的测试报告，请查收。'
+      sender: '*********@qq.com'
+      password: '授权码'
+      receiver: '*********@qq.com'#多个收件人用分号隔开
+
+ip: 127.0.0.1
+port: 8080
